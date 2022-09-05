@@ -1,4 +1,6 @@
-<h1>Hi there 👋, I'm Juliana Álvares and welcome to my profile! 😉</h1>
+<h1>Hi there 👋
+</br>
+I'm Juliana Álvares, welcome to my profile! 😉</h1>
 <h3>A Web Full Stack Development Student from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaresju&label=Profile%20views&color=d8682c&style=flat" alt="alvaresju" /> </p>
@@ -29,7 +31,7 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
