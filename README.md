@@ -9,7 +9,6 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
 - 🔭 I’m currently working on **front-end projects with React**
 - 🌱 I’m currently learning **React, Redux, Contex API**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/AlvaresJu](https://github.com/AlvaresJu)
 - 📫 How to reach me **alvares.juliana@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
