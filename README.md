@@ -42,7 +42,7 @@ I'm Juliana Álvares, welcome to my profile! 😉</h1>
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaresju&show_icons=true&theme=dark&locale=en&layout=compact" alt="alvaresju" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaresju&show_icons=true&theme=dark&locale=en&layout=compact" alt="alvaresju" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvaresju&show_icons=true&theme=dark&locale=en" alt="alvaresju" /></p>
 
