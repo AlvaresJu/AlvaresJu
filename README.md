@@ -1,6 +1,6 @@
-<h1>Hi there 👋
+<h2>Hi there 👋
 </br>
-I'm Juliana Álvares, welcome to my profile! 😉</h1>
+I'm Juliana Álvares, welcome to my profile! 😉</h2>
 <h3>A Web Full Stack Development Student from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaresju&label=Profile%20views&color=d8682c&style=flat" alt="alvaresju" /> </p>
