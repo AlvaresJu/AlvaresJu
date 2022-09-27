@@ -7,7 +7,7 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
 
 - 🚀 I'm studying **web full stack development at Trybe**
 - 🔭 I’m currently working on **front-end projects with React**
-- 🌱 I’m currently learning **React, Redux, Contex API**
+- 🌱 I’m currently learning **Docker, MySQL, Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,59 +19,80 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Javascript</strong></span><br>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-            </a>
+                <span><strong>JavaScript</strong></span><br>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+                </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-            </a>
+                <span><strong>HTML</strong></span><br>
+                <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+                </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-            </a>
+                <span><strong>CSS</strong></span><br>
+                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+                </a>
+            </td>
+            <td width="80px" align="center">
+                <span><strong>React</strong></span><br>
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+                </a>
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-            </a>
+                <span><strong>Redux</strong></span><br>
+                <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+                </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>Redux</strong></span><br>
-            <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-            </a>
+                <span><strong>Jest</strong></span><br>
+                <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+                </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-            </a> 
-          </td>
+                <span><strong>RTL</strong></span><br>
+                <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
+                    <img src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" width="40" height="40">
+                </a>
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Docker</strong></span><br>
+                <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
+                </a>
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-            </a>
+                <span><strong>MySQL</strong></span><br>
+                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+                </a> 
             </td>
             <td width="80px" align="center">
-            <span><strong>RTL</strong></span><br>
-            <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
-            <img src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" width="40" height="40">
+                <span><strong>Git</strong></span><br>
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+                </a> 
             </td>
             <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <a href="https://github.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40">
+                <span><strong>GitHub</strong></span><br>
+                <a href="https://github.com/" target="_blank" rel="noreferrer">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40">
+                </a>
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Bash</strong></span><br>
+                <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+                    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+                </a> 
             </td>
         </tr>
     </tbody>
