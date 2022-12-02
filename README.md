@@ -103,15 +103,15 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
                 </a> 
             </td>
             <td width="80px" align="center">
-                <span><strong>Mocha</strong></span><br>
-                <a href="https://mochajs.org/" target="_blank" rel="noreferrer"> 
-                    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
-                </a> 
-            </td>
-            <td width="80px" align="center">
                 <span><strong>Chai</strong></span><br>
                 <a href="https://www.chaijs.com/api/bdd/" target="_blank" rel="noreferrer"> 
                     <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="chai" width="40" height="40"/> 
+                </a> 
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Git</strong></span><br>
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
                 </a> 
             </td>
             <td width="80px" align="center">
