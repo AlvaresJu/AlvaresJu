@@ -7,7 +7,7 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
 
 - 🚀 I'm studying **web full stack development at Trybe**
 - 🔭 I’m currently working on **Back-end projects, developing Web APIs with Node.js**
-- 🌱 I’m currently learning **TypeScript and object-oriented programming (OOP)**
+- 🌱 I’m currently learning **Python and object-oriented programming (OOP)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
