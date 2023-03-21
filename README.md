@@ -32,6 +32,12 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
                 </a>
             </td>
             <td width="80px" align="center">
+                <span><strong>Python</strong></span><br>
+                <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+                </a>
+            </td>
+            <td width="80px" align="center">
                 <span><strong>HTML</strong></span><br>
                 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -69,6 +75,12 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="40" height="40"/> 
                 </a> 
             </td>
+            <td width="80px" align="center">
+                <span><strong>Docker</strong></span><br>
+                <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
+                </a>
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -95,6 +107,12 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
                     <img src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" width="40" height="40">
                 </a>
             </td>
+            <td width="80px" align="center">
+                <span><strong>pytest</strong></span><br>
+                <a href="https://docs.pytest.org/en/7.2.x/" target="_blank" rel="noreferrer">
+                    <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" width="40" height="40">
+                </a>
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -110,15 +128,21 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
                 </a> 
             </td>
             <td width="80px" align="center">
-                <span><strong>Docker</strong></span><br>
-                <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
-                </a>
-            </td>
-            <td width="80px" align="center">
                 <span><strong>Git</strong></span><br>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+                </a> 
+            </td>
+            <td width="80px" align="center">
+                <span><strong>GitHub</strong></span><br>
+                <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40"/> 
+                </a> 
+            </td>
+            <td width="80px" align="center">
+                <span><strong>VS Code</strong></span><br>
+                <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="visual studio code" width="40" height="40"/> 
                 </a> 
             </td>
         </tr>
