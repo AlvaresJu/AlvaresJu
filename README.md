@@ -149,8 +149,8 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
     </tbody>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaresju&show_icons=true&theme=dark&locale=en&layout=compact" alt="alvaresju" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaresju&size_weight=0.5&count_weight=0.5&theme=blue-green&layout=compact" alt="alvaresju" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvaresju&show_icons=true&theme=dark&locale=en" alt="alvaresju" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvaresju&count_private=true&theme=blue-green&show_icons=true" alt="alvaresju" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvaresju&theme=dark" alt="alvaresju" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvaresju&theme=blue-green" alt="alvaresju" /></p>
