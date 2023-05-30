@@ -7,7 +7,7 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
 
 - 🚀 I recently finished a **full stack web development course at Trybe**
 - 🔎 I'm looking for an **opportunity in a technology company as junior programmer**
-- 🔭 I’m currently working on **Back-end projects, developing Web APIs with Node.js** and **Python projects**
+- 🔭 I’m currently working on **Back and Front-end projects, developing APIs with Node.js and web applications with React.js**, and also some **Python projects**
 - 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
