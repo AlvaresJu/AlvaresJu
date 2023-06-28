@@ -6,7 +6,6 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaresju&label=Profile%20views&color=d8682c&style=flat" alt="alvaresju" /> </p>
 
 - 🚀 I recently finished a **full stack web development course at Trybe**
-- 🔎 I'm looking for an **opportunity in a technology company as junior programmer**
 - 🔭 I’m currently working on **Back and Front-end projects, developing APIs with Node.js and web applications with React.js**, and also some **Python projects**
 - 🌱 I’m currently learning **Java**
 
