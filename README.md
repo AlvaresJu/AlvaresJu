@@ -1,13 +1,13 @@
 <h2>Hi there 👋
 </br>
 I'm Juliana Álvares, welcome to my profile! 😉</h2>
-<h3>A junior Full Stack Web Developer from Brazil</h3>
+<h3>A Full Stack Developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaresju&label=Profile%20views&color=d8682c&style=flat" alt="alvaresju" /> </p>
 
-- 🚀 I recently finished a **full stack web development course at Trybe**
-- 🔭 I’m currently working on **Back and Front-end projects, developing APIs with Node.js and web applications with React.js**, and also some **Python projects**
-- 🌱 I’m currently learning **Java**
+- 👩🏻‍💻 I'm **software engineer I** at @inspira-legal 
+- 🚀 I'm a **full stack web developer** graduated by **Trybe**
+- 📝 I recently finished a **cloud cuputing course (focus: AWS)** at dataRain Consulting
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,7 +63,13 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
                     <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40"/>
                 </a>
             </td>
-            <td width="80px" align="center">
+             <td width="80px" align="center">
+                <span><strong>GrapgQL</strong></span><br>
+                <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+                    <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="graphql" width="40" height="40"/> 
+                </a> 
+            </td>
+            <td width="80px" align="center"
                 <span><strong>MySQL</strong></span><br>
                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -74,12 +80,6 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="40" height="40"/> 
                 </a> 
-            </td>
-            <td width="80px" align="center">
-                <span><strong>Docker</strong></span><br>
-                <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
-                </a>
             </td>
         </tr>
         <tr valign="top">
@@ -127,6 +127,12 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
                     <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="chai" width="40" height="40"/> 
                 </a> 
             </td>
+             <td width="80px" align="center">
+                <span><strong>Docker</strong></span><br>
+                <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
+                </a>
+            </td>
             <td width="80px" align="center">
                 <span><strong>Git</strong></span><br>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -137,12 +143,6 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
                 <span><strong>GitHub</strong></span><br>
                 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40"/> 
-                </a> 
-            </td>
-            <td width="80px" align="center">
-                <span><strong>VS Code</strong></span><br>
-                <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-                    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="visual studio code" width="40" height="40"/> 
                 </a> 
             </td>
         </tr>
