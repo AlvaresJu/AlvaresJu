@@ -153,4 +153,4 @@ I'm Juliana Álvares, welcome to my profile! 😉</h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alvaresju&count_private=true&theme=blue-green&show_icons=true" alt="alvaresju" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvaresju&theme=blue-green" alt="alvaresju" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=alvaresju&theme=blue-green" alt="alvaresju" /></p>
