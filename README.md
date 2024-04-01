@@ -1,13 +1,13 @@
 <h2>Hi there 👋
 </br>
 I'm Juliana Álvares, welcome to my profile! 😉</h2>
-<h3>A Full Stack Developer from Brazil</h3>
+<h3>A Full Stack Developer from Brazil, who loves backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaresju&label=Profile%20views&color=d8682c&style=flat" alt="alvaresju" /> </p>
 
 - 👩🏻‍💻 I'm **software engineer I** at @inspira-legal 
 - 🚀 I'm a **full stack web developer** graduated by **Trybe**
-- 📝 I recently finished a **cloud cuputing course (focus: AWS)** at dataRain Consulting
+<!--- - 📝 I recently finished a **cloud cuputing course (focus: AWS)** at dataRain Consulting --->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
