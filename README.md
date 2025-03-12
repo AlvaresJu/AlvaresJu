@@ -1,7 +1,7 @@
 <h2>Hi there 👋
 </br>
 I'm Juliana Álvares, welcome to my profile! 😉</h2>
-<h3>A backend Developer from Brazild</h3>
+<h3>A backend Developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaresju&label=Profile%20views&color=d8682c&style=flat" alt="alvaresju" /> </p>
 
